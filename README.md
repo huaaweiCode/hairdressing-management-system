@@ -70,11 +70,3 @@
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208152132297.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**理发**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
